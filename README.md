@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+This app was created following the tutorial in [Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-7-hardhat-fund-me)
